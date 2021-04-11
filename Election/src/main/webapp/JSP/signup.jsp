@@ -71,7 +71,7 @@ button:hover {
 				<td>Password : <input type="password"
 					placeholder="confirm the password" type="password" name="pass2"
 					required> <br>
-					<button type="submit">signup</button>
+					<input type="submit" value="signup">
 
 				</td>
 			</tr>
