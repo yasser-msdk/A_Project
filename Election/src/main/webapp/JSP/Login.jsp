@@ -56,7 +56,7 @@ input[type=text], input[type=password] {
 </style>
 </head>
 <body>
-	<form action="/Login" method="post">
+	<form action="/Logn" method="post">
 		<table>
 			<tr>
 				<td>Username : <input type="text" placeholder="Enter Username"
